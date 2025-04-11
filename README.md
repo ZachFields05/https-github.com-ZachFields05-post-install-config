@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/9ee9c979-fde3-4c51-8217-950d3c79ef6a)
 
+EXPLORING AND CONFIGURING LIFE INSIDE A TICKETING SYSTEM.
 
-* Analyze the differance Admin/enduser
 * Configure Roles
 * Configure Departments
 * Configure Teams
@@ -12,10 +12,10 @@
 
 
 
-<img width="1412" alt="image" src="https://github.com/user-attachments/assets/fd1734be-cb43-496b-babf-74dbe397f178" />
 
 
-left (enduser) simulation of if you were an help desk employee. Right (administrator use) for backend configuration.
+
+
 
   
 
@@ -24,8 +24,9 @@ left (enduser) simulation of if you were an help desk employee. Right (administr
 
 
 
-Configure Roles (for grouping permissions), Admin Panel -> Agents -> Roles.
-                       Supreme Admin
+ Configure Roles (for grouping permissions), Admin Panel -> Agents -> Roles.
+
+This is essentially a supreme admin. Therefore this user would have full control over tickets in the system.
 
 
 <img width="863" alt="image" src="https://github.com/user-attachments/assets/3f3bda40-11a2-4f57-aec1-a958c248d061" />
@@ -33,6 +34,8 @@ Configure Roles (for grouping permissions), Admin Panel -> Agents -> Roles.
 
 Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking) Admin Panel -> Agents -> Departments
                        SysAdmins
+
+Configuring departments allows for employees to be orginized. Example some agents shouldn't see tickets that others can.
 
 <img width="838" alt="image" src="https://github.com/user-attachments/assets/562961e4-453e-417f-b6bc-6d04e48880f0" />
 
@@ -42,6 +45,8 @@ Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
 
 Configure Teams Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
                        Online Banking
+
+  Teams help an organiztion assign tickets to the best suited agents.
 <img width="749" alt="image" src="https://github.com/user-attachments/assets/4b605633-fa7f-43db-a600-3e228cb267fc" />
 
 
